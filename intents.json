@@ -1,0 +1,79 @@
+{
+  "intents": [
+    {
+      "tag": "Greetings",
+      "text": [
+        "Bienvenida a bordo", "Disculpe", "Gracias por volar con nosotros"
+      ],
+      "response": [
+        "Disculpe, podria ayudarme a abrochar mi cinturon de seguridad, por favor",
+        "Perdon por molestar, podria brindarme asistencia para abrochar mi cinturon de seguridad, por favor",
+        "Necesito un poco de ayuda con mi cinturon, puede asistirme",
+        "Sería tan amable de abrochar mi cinturon de seguridad",
+        "Necesito ayuda con el cinturon de seguridad, podria, por favor",
+        "Podria ofrecerme asistencia con el cinturon",
+        "Disculpe, puede ocuparse de mi cinturon, por favor",
+        "Por favor, me podria dar una mano con el cinturon",
+        "¿Seria tan amable de abrochar mi cinturon de seguridad",
+        "Necesito asistencia para abrochar mi cinturon, podria",
+        "Podría brindarme ayuda con el cinturon de seguridad, por favor",
+        "Disculpe, me podría dar una mano para abrochar el cinturon",
+        "¿Podria ocuparse de mi cinturon de seguridad, por favor",
+        "Por favor, puede ayudarme a abrochar mi cinturon de seguridad",
+        "Necesito un poco de ayuda con el cinturon, puede asistirme",
+        "Podría ofrecerme asistencia para abrochar mi cinturon, por favor"
+      ]
+    },
+    {
+      "tag": "afirmation",
+      "text": [
+        "si", "por supuesto", "claro", "permitame ayudarle", "de inmediato", "deme un momento", "deme un segundo"
+      ],
+      "response": [
+        "muchas gracias", "muchas gracias por la ayuda", "eres muy amable", "gracias por ayudarme", "un poco apretado pero está bien"
+      ]
+    },
+    {
+      "tag": "welcome",
+      "text": [
+        "buen dia", "buenos dias", "buenas noches", "puedo ver su tiquete", "buenas tardes"
+      ],
+      "response": [
+        "Disculpe, estoy teniendo dificultades para encontrar mi asiento. Podria ayudarme a ubicarlo",
+        "Seria posible que me asistiera para encontrar mi asiento asignado",
+        "Estoy un poco perdido. Podria guiarme hacia mi asiento",
+        "Perdon, podria indicarme donde esta mi asiento",
+        "Necesito encontrar mi asiento, puede mostrarmelo",
+        "Estoy buscando mi asiento, me podria acompañar",
+        "Disculpe, podria orientarme hacia mi asiento",
+        "Podria ayudarme a ubicar mi asiento, por favor",
+        "Tengo dificultades para encontrar mi asiento, puede asistirme",
+        "Seria tan amable de indicarme donde esta mi asiento asignado",
+        "Estoy un poco perdido, puede guiarme hacia mi asiento",
+        "Por favor, puede mostrarme la ubicacion de mi asiento",
+        "Necesito encontrar mi asiento, podría darme una mano",
+        "Disculpe, podria decirme dónde debo ir para llegar a mi asiento",
+        "Puede ayudarme a ubicar mi asiento, por favor",
+        "Tengo dificultades para encontrar mi asiento asignado, puede orientarme",
+        "Estoy buscando mi asiento, podria acompañarme hasta alli",
+        "Perdon por molestar, podria indicarme la direccion de mi asiento",
+        "Podria mostrarme dónde esta mi asiento, por favor",
+        "Necesito encontrar mi asiento, me podria dar instrucciones",
+        "Disculpe, puede decirme cómo llegar a mi asiento",
+        "Estoy un poco confundido, podria ayudarme a encontrar mi asiento" ,
+        "Seria tan amable de orientarme hacia mi asiento asignado",
+        "Tengo problemas para ubicar mi asiento, puede guiarme",
+        "Por favor, puede mostrarme donde se encuentra mi asiento",
+        "Necesito encontrar mi asiento, podria asistirme en ello",
+        "Disculpe, podria indicarme la ubicacion de mi asiento",
+        "Puede ayudarme a ubicar mi asiento, por favor",
+        "Tengo dificultades para encontrar mi asiento, me podria acompañar",
+        "Estoy buscando mi asiento, podria darme una mano para hallarlo",
+        "Perdon por la molestia, podria decirme dónde esta mi asiento",
+        "Podria mostrarme la direccion de mi asiento, por favor",
+        "Necesito encontrar mi asiento, ¿podria proporcionarme algunas instrucciones?"
+      ]
+    }
+  ]
+}
+  
